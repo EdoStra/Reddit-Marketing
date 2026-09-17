@@ -67,7 +67,7 @@ _**TL;DR: This is a curated list of guides, resources, case studies and everythi
 
 <br/><br/><br/>
 
-## 💑 Manage your Brand Reputation on Reddit:
+## 💑 Manage Brand Reputation On Reddit:
 - [How (and When) Big Brands Respond to Negativity on Reddit](https://foundationinc.co/lab/reddit-brand-defense)
 - [How Do You Fix Your Reddit Reputation? (For SEO & AI Visibility)](https://www.annsmarty.com/p/so-how-do-you-fix-your-reddit-reputation)
 - [How to Get a Negative Reddit Thread Removed, the Right Way](https://www.annsmarty.com/p/how-to-get-a-negative-reddit-thread)
