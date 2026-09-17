@@ -1,4 +1,8 @@
-_**TL;DR: This is a curated list of guides, resources, case studies and anything else about reddit marketing.**_
+<p align="center">
+    	<img src="awesome-reddit-marketing-cover.png" alt="Awesome Reddit Marketing"/>
+</p>
+
+_**TL;DR: This is a curated list of guides, resources, case studies and everything else about marketing on Reddit.**_
 
 <br/><br/><br/>
 
