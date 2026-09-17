@@ -63,7 +63,7 @@ _**TL;DR: This is a curated list of guides, resources, case studies and everythi
 ## 💸 Reddit Ads:
 - [The guide to reddit paid marketing](https://foundationinc.co/lab/reddit-paid-marketing)
 - [Reddit ad specs and ad types](https://spacestationlabs.ai/blog/reddit-ad-specs-types-creative)
-- [How to create Reddit Max campaigns](https://www.reddit.com/r/RedditforBusiness/comments/1vhwacx/guide_how_to_create_reddit_max_campaigns_that_get/) + maybe the case study
+- [How to create Reddit Max campaigns](https://www.reddit.com/r/RedditforBusiness/comments/1vhwacx/guide_how_to_create_reddit_max_campaigns_that_get/)
 
 <br/><br/><br/>
 
