@@ -38,6 +38,7 @@ _**TL;DR: This is a curated list of guides, resources, case studies and everythi
 - [Rezy](https://www.jacobjacquet.com/posts/reddit-marketing-strategy)
 - [Hubspot](https://foundationinc.co/lab/hubspot-reddit-strategy/)
 - [1Password](https://foundationinc.co/lab/1password-reddit-approach)
+- [Codesmith's horror story](https://larslofgren.com/codesmith-reddit-reputation-attack/)
 
 <br/><br/><br/>
 
@@ -61,7 +62,7 @@ _**TL;DR: This is a curated list of guides, resources, case studies and everythi
 <br/><br/><br/>
 
 ## 💸 Reddit Ads:
-- [The guide to reddit paid marketing](https://foundationinc.co/lab/reddit-paid-marketing)
+- [The guide to Reddit paid marketing](https://foundationinc.co/lab/reddit-paid-marketing)
 - [Reddit ad specs and ad types](https://spacestationlabs.ai/blog/reddit-ad-specs-types-creative)
 - [How to create Reddit Max campaigns](https://www.reddit.com/r/RedditforBusiness/comments/1vhwacx/guide_how_to_create_reddit_max_campaigns_that_get/)
 
